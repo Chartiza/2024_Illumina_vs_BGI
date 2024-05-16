@@ -8,3 +8,4 @@ The purpose of this project is to assess the quality of sequencing reads generat
 ### The folders represent the different analysis steps.
 - Step1. Reads quality comparison. FASTQ
 - Step2. Reads annotation comparison. KRAKEN
+  - Solve the mystery of the Ugly sample
