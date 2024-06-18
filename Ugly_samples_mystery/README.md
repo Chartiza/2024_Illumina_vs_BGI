@@ -6,7 +6,7 @@ check folder "step1_Reads_quality_comparison_FASTQ"
 check folder "step2_KRAKEN_aggregation"
 
 # "bad" & "ugly" sample groups
-### OriginalResults_Kraken1.ipynb
+### Kraken1_all_check.ipynb
 Check lab parameters and their correlation with "bad" & "ugly" sample groups
 - BGI batch number (No)
 - Reads number (No)
@@ -14,10 +14,11 @@ Check lab parameters and their correlation with "bad" & "ugly" sample groups
 - DNA quality (No)
 - Number of species (Yes, only for the "ugly" group)
 
-### reRun_Kraken2.ipynb
+### Kraken2_reRun_program_check.ipynb
 Check if the problem connected with calculation and program. Run Kraken one more time.
 - "ugly" sample groups disaperad 
 - "bad" sample groups still present
 
-### reRun other taxanomic profiling program
+### Kraken2_all_check.ipynb
+ReRun all checks + new Sequenator banch info check
 
