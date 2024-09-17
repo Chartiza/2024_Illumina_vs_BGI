@@ -1,8 +1,12 @@
+step0_Select_final_smpls_set/input/
+step0_Select_final_smpls_set/results/
+step1_Reads_quality_comparison_FASTQ/input/
+step1_Reads_quality_comparison_FASTQ/results/
 step2_Reads_annotation_comparison_KRAKEN/results/
 step2_Reads_annotation_comparison_KRAKEN/input/
-step2_KRAKEN_aggregation/results
+step2_KRAKEN_aggregation/input/
+step2_KRAKEN_aggregation/results/
 Ugly_samples_mystery/input/
 Ugly_samples_mystery/results/
 step3_motus/input/
 step3_motus/results/
-results/
