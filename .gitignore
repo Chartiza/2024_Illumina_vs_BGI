@@ -10,3 +10,7 @@ Ugly_samples_mystery/input/
 Ugly_samples_mystery/results/
 step3_motus/input/
 step3_motus/results/
+step1_Reads_quality_comparison_FASTQ/results/Combined_fastQC_results.xlsx
+step1_Reads_quality_comparison_FASTQ/results/Sequence_Duplication_Levels.png
+step1_Reads_quality_comparison_FASTQ/results/Total_Sequences.png
+ 
