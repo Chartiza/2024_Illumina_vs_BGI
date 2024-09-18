@@ -1,5 +1,3 @@
-step0_Select_final_smpls_set/input/
-step0_Select_final_smpls_set/results/
 step1_Reads_quality_comparison_FASTQ/input/
 step1_Reads_quality_comparison_FASTQ/results/
 step2_Reads_annotation_comparison_KRAKEN/results/
@@ -13,4 +11,3 @@ step3_motus/results/
 step1_Reads_quality_comparison_FASTQ/results/Combined_fastQC_results.xlsx
 step1_Reads_quality_comparison_FASTQ/results/Sequence_Duplication_Levels.png
 step1_Reads_quality_comparison_FASTQ/results/Total_Sequences.png
- 
